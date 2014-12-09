@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/terrain">
+        <file>terrain.frag</file>
+        <file>terrain.vert</file>
+    </qresource>
+</RCC>
